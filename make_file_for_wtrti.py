@@ -1,8 +1,5 @@
-import wt_datamine
-import json
-import glob
 import csv
-import wt_datamine
+import war_thunder_plane_info.wt as wt_datamine
 
 # Список самолетов который нам интересен, если пусто, то обработаем все
 list_plane = [
