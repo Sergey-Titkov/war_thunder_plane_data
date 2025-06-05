@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 /War-Thunder-Datamine-master/
 /.idea/
+/wtmfd_data *.json
+/wtmfd_data_verion *.json
