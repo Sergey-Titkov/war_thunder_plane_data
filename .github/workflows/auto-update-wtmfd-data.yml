@@ -39,4 +39,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install packaging
           pip install war_thunder_plane_info
-          
+      - name: Run data generation script
+        run: |
+          cd script-repo
+          python make_file_for_wtmfd.py
+
+      - name: Copy generated files to WT-MFD
+        run: |
+          cp script-repo/wtmfd_data.json WT-MFD/
+          cp script-repo/wtmfd_data_version.json WT-MFD/
+
+      - name: Commit and push if changed
+        run: |
+          cd WT-MFD
+          git add wtmfd_data.json wtmfd_data_version.json
+          if ! git diff --staged --quiet; then
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            # Извлекаем версию для коммита
+            VERSION=$(jq -r '.Version' wtmfd_data_version.json)
+            git commit -m "chore: auto-update wtmfd_data.json from Datamine (v${VERSION})"
+            git push origin main
+          else
+            echo "No changes detected. Skipping push."
+          fi          
