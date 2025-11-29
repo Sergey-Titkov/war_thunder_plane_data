@@ -21,3 +21,22 @@ jobs:
           ref: master         # ← Исправлено: не main, а master!
           path: War-Thunder-Datamine-master
           fetch-depth: 1
+      - name: Checkout WT-MFD repo (main branch)
+        uses: actions/checkout@v4
+        with:
+          repository: Sergey-Titkov/WT-MFD
+          ref: main
+          token: ${{ secrets.WTMFD_PAT }}
+          path: WT-MFD
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install packaging
+          pip install war_thunder_plane_info
+          
