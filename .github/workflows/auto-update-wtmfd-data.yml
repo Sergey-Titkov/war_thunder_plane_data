@@ -1,4 +1,4 @@
-ame: Auto-update wtmfd_data.json from Datamine (main branch)
+name: Auto-update wtmfd_data.json from Datamine (main branch)
 
 on:
   schedule:
