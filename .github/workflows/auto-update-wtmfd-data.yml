@@ -14,9 +14,10 @@ jobs:
         with:
           path: script-repo
 
-      - name: Checkout War-Thunder-Datamine (main branch)
+      - name: Checkout War-Thunder-Datamine
         uses: actions/checkout@v4
         with:
           repository: gszabi99/War-Thunder-Datamine
-          ref: main
+          ref: master         # ← Исправлено: не main, а master!
           path: War-Thunder-Datamine-master
+          fetch-depth: 1
