@@ -1,0 +1,22 @@
+ame: Auto-update wtmfd_data.json from Datamine (main branch)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ежедневно в 00:00 UTC
+  workflow_dispatch:     # Возможность запуска вручную
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout war_thunder_plane_data repo
+        uses: actions/checkout@v4
+        with:
+          path: script-repo
+
+      - name: Checkout War-Thunder-Datamine (main branch)
+        uses: actions/checkout@v4
+        with:
+          repository: gszabi99/War-Thunder-Datamine
+          ref: main
+          path: War-Thunder-Datamine-master
