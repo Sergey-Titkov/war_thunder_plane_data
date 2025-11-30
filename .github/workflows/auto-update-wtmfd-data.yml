@@ -19,7 +19,7 @@ jobs:
         with:
           repository: gszabi99/War-Thunder-Datamine
           ref: master         # ← Исправлено: не main, а master!
-          path: War-Thunder-Datamine-master
+          path: script-repo/War-Thunder-Datamine-master
           fetch-depth: 1
       - name: Checkout WT-MFD repo (main branch)
         uses: actions/checkout@v4
