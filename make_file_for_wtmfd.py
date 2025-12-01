@@ -27,13 +27,13 @@ if __name__ == "__main__":
         exclude = ['h_81a_2']
         result_json = {}
 
-        units_name = wt.WTUnitsName(fr'./War-Thunder-Datamine-master/lang.vromfs.bin_u/lang/units.csv')
+        plane_names = wt.WTUnitsName(fr'./War-Thunder-Datamine-master/lang.vromfs.bin_u/lang/units.csv')
 
         # Список файлов есть, пошли по нему
         for file in res:
             plane_id = os.path.basename(file).replace('.blkx', '')
             if plane_id not in exclude:
-                plane_datamine = wt.WTPlaneFullInfo(plane_id=plane_id,units_name = units_name)
+                plane_datamine = wt.WTPlaneFullInfo(plane_id=plane_id, plane_name = plane_names[plane_id])
                 result_json[plane_id]=plane_datamine.get_all()
 
         with open('wtmfd_data.json', 'w', encoding="utf-8") as file:
