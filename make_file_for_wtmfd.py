@@ -15,7 +15,6 @@ if __name__ == "__main__":
 
     with open('wtmfd_data_version.json', 'r', encoding="utf-8") as file:
         json_version = version.parse(json.load(file)["Version"])
-
     # У нас новые данные по флайт модели, обновляемся
     if datamine_version > json_version:
         shutil.copy2('wtmfd_data.json', f'wtmfd_data {json_version}.json')
