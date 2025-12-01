@@ -17,7 +17,7 @@ if __name__ == "__main__":
         json_version = version.parse(json.load(file)["Version"])
 
     # У нас новые данные по флайт модели, обновляемся
-    if datamine_version > json_version:
+    if True or datamine_version > json_version:
         shutil.copy2('wtmfd_data.json', f'wtmfd_data {json_version}.json')
         shutil.copy2('wtmfd_data_version.json', f'wtmfd_data_verion {json_version}.json')
 
@@ -31,10 +31,13 @@ if __name__ == "__main__":
 
         # Список файлов есть, пошли по нему
         for file in res:
-            plane_id = os.path.basename(file).replace('.blkx', '')
-            if plane_id not in exclude:
-                plane_datamine = wt.WTPlaneFullInfo(plane_id=plane_id, plane_name = plane_names[plane_id])
-                result_json[plane_id]=plane_datamine.get_all()
+            try:
+                plane_id = os.path.basename(file).replace('.blkx', '')
+                if plane_id not in exclude:
+                    plane_datamine = wt.WTPlaneFullInfo(plane_id=plane_id, plane_name = plane_names[plane_id])
+                    result_json[plane_id]=plane_datamine.get_all()
+            except Exception as e:
+                print(e)
 
         with open('wtmfd_data.json', 'w', encoding="utf-8") as file:
             json.dump(result_json, file, ensure_ascii=False, indent=4)
