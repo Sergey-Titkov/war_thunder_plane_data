@@ -2094,6 +2094,11 @@
         },
         "fmFile": "fm/ahs.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ahs",
         "Length": 16.0,
         "WingSpan": [
@@ -2157,6 +2162,11 @@
         },
         "fmFile": "fm/ah_1f.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1f",
         "Length": 17.51,
         "WingSpan": [
@@ -2220,6 +2230,11 @@
         },
         "fmFile": "fm/ah_1f.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1f",
         "Length": 17.51,
         "WingSpan": [
@@ -2283,6 +2298,11 @@
         },
         "fmFile": "fm/ah_1f_iaf.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1f_iaf",
         "Length": 17.51,
         "WingSpan": [
@@ -2724,6 +2744,11 @@
         },
         "fmFile": "fm/ah_1w.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1w",
         "Length": 16.0,
         "WingSpan": [
@@ -2787,6 +2812,11 @@
         },
         "fmFile": "fm/ah_1w.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1w",
         "Length": 16.0,
         "WingSpan": [
@@ -2850,6 +2880,11 @@
         },
         "fmFile": "fm/ah_1z.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_1z",
         "Length": 16.0,
         "WingSpan": [
@@ -2913,6 +2948,11 @@
         },
         "fmFile": "fm/ah_2_rooivalk.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_2_rooivalk",
         "Length": 16.3,
         "WingSpan": [
@@ -3039,6 +3079,11 @@
         },
         "fmFile": "fm/ah_60_iaf.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_60_iaf",
         "Length": 16.0,
         "WingSpan": [
@@ -3102,6 +3147,11 @@
         },
         "fmFile": "fm/ah_64a.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64a",
         "Length": 16.0,
         "WingSpan": [
@@ -3165,6 +3215,11 @@
         },
         "fmFile": "fm/ah_64a.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64a",
         "Length": 16.0,
         "WingSpan": [
@@ -3228,6 +3283,11 @@
         },
         "fmFile": "fm/ah_64a_iaf.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64a_iaf",
         "Length": 16.0,
         "WingSpan": [
@@ -3291,6 +3351,11 @@
         },
         "fmFile": "fm/ah_64a.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64a",
         "Length": 16.0,
         "WingSpan": [
@@ -3354,6 +3419,11 @@
         },
         "fmFile": "fm/ah_64a.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64a",
         "Length": 16.0,
         "WingSpan": [
@@ -3417,6 +3487,11 @@
         },
         "fmFile": "fm/ah_64d.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64d",
         "Length": 16.0,
         "WingSpan": [
@@ -3480,6 +3555,11 @@
         },
         "fmFile": "fm/ah_64d_i_saraph.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64d_i_saraph",
         "Length": 16.0,
         "WingSpan": [
@@ -3543,6 +3623,11 @@
         },
         "fmFile": "fm/ah_64d_japan.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64d_japan",
         "Length": 16.0,
         "WingSpan": [
@@ -3606,6 +3691,11 @@
         },
         "fmFile": "fm/ah_64d_netherlands.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64d_netherlands",
         "Length": 16.0,
         "WingSpan": [
@@ -3669,6 +3759,11 @@
         },
         "fmFile": "fm/ah_64e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64e",
         "Length": 16.0,
         "WingSpan": [
@@ -3732,6 +3827,11 @@
         },
         "fmFile": "fm/ah_64e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64e",
         "Length": 16.0,
         "WingSpan": [
@@ -3795,6 +3895,11 @@
         },
         "fmFile": "fm/ah_64e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64e",
         "Length": 16.0,
         "WingSpan": [
@@ -3858,6 +3963,11 @@
         },
         "fmFile": "fm/ah_64e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64e",
         "Length": 16.0,
         "WingSpan": [
@@ -3921,6 +4031,11 @@
         },
         "fmFile": "fm/ah_64e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_64e",
         "Length": 16.0,
         "WingSpan": [
@@ -3984,6 +4099,11 @@
         },
         "fmFile": "fm/ah_6m.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_6m",
         "Length": 17.5,
         "WingSpan": [
@@ -4047,6 +4167,11 @@
         },
         "fmFile": "fm/ah_mk1.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ah_mk1",
         "Length": 16.0,
         "WingSpan": [
@@ -4481,6 +4606,11 @@
         },
         "fmFile": "fm/amx_italy.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "amx_italy",
         "Length": 13.23,
         "WingSpan": [
@@ -4556,6 +4686,11 @@
         },
         "fmFile": "fm/amx_a_1a_brazil.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "amx_a_1a_brazil",
         "Length": 13.23,
         "WingSpan": [
@@ -5533,6 +5668,11 @@
         },
         "fmFile": "fm/av_8b_na.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "av_8b_na",
         "Length": 14.12,
         "WingSpan": [
@@ -5611,6 +5751,11 @@
         },
         "fmFile": "fm/av_8b_plus.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "av_8b_plus",
         "Length": 14.12,
         "WingSpan": [
@@ -5689,6 +5834,11 @@
         },
         "fmFile": "fm/av_8b_plus.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "av_8b_plus",
         "Length": 14.12,
         "WingSpan": [
@@ -6001,6 +6151,11 @@
         },
         "fmFile": "fm/a_109_eoa2.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a_109_eoa2",
         "Length": 16.0,
         "WingSpan": [
@@ -6064,6 +6219,11 @@
         },
         "fmFile": "fm/a-10a_early.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a-10a_early",
         "Length": 10.8,
         "WingSpan": [
@@ -6138,6 +6298,11 @@
         },
         "fmFile": "fm/a-10a_late.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a-10a_late",
         "Length": 10.8,
         "WingSpan": [
@@ -6212,6 +6377,11 @@
         },
         "fmFile": "fm/a-10c.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a-10c",
         "Length": 10.8,
         "WingSpan": [
@@ -6286,6 +6456,11 @@
         },
         "fmFile": "fm/a_129_int.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a_129_int",
         "Length": 16.0,
         "WingSpan": [
@@ -6349,6 +6524,11 @@
         },
         "fmFile": "fm/a_129_cbt.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a_129_cbt",
         "Length": 16.0,
         "WingSpan": [
@@ -6412,6 +6592,11 @@
         },
         "fmFile": "fm/a_129_d.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a_129_d",
         "Length": 16.0,
         "WingSpan": [
@@ -7153,6 +7338,11 @@
         },
         "fmFile": "fm/a_6e_tram.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "a_6e_tram",
         "Length": 16.688,
         "WingSpan": [
@@ -13627,6 +13817,11 @@
         },
         "fmFile": "fm/buccaneer_s1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "buccaneer_s1",
         "Length": 16.95,
         "WingSpan": [
@@ -13706,6 +13901,11 @@
         },
         "fmFile": "fm/buccaneer_s2.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "buccaneer_s2",
         "Length": 16.95,
         "WingSpan": [
@@ -13785,6 +13985,11 @@
         },
         "fmFile": "fm/buccaneer_s2b.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "buccaneer_s2b",
         "Length": 16.95,
         "WingSpan": [
@@ -16419,6 +16624,11 @@
         },
         "fmFile": "fm/fa_18a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18a",
         "Length": 17.1,
         "WingSpan": [
@@ -17518,6 +17728,11 @@
         },
         "fmFile": "fm/dh_110.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "dh_110",
         "Length": 16.33,
         "WingSpan": [
@@ -19906,6 +20121,11 @@
         },
         "fmFile": "fm/f_2000a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 100000.0,
+            "TargetRangeMin": 9250.0,
+            "TargetRangeMax": 74000.0
+        },
         "FmID": "f_2000a",
         "Length": 19.4,
         "WingSpan": [
@@ -19980,6 +20200,11 @@
         },
         "fmFile": "fm/ef_2000_block_10.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 100000.0,
+            "TargetRangeMin": 9250.0,
+            "TargetRangeMax": 74000.0
+        },
         "FmID": "ef_2000_block_10",
         "Length": 19.4,
         "WingSpan": [
@@ -20054,6 +20279,11 @@
         },
         "fmFile": "fm/typhoon_fgr4.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 100000.0,
+            "TargetRangeMin": 9250.0,
+            "TargetRangeMax": 74000.0
+        },
         "FmID": "typhoon_fgr4",
         "Length": 19.4,
         "WingSpan": [
@@ -20657,6 +20887,11 @@
         },
         "fmFile": "fm/f-100a_china.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-100a_china",
         "Length": 13.533,
         "WingSpan": [
@@ -20720,6 +20955,11 @@
         },
         "fmFile": "fm/f_100d.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_100d",
         "Length": 13.533,
         "WingSpan": [
@@ -20795,6 +21035,11 @@
         },
         "fmFile": "fm/f_100d.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_100d",
         "Length": 13.533,
         "WingSpan": [
@@ -21026,6 +21271,11 @@
         },
         "fmFile": "fm/f_104c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104c",
         "Length": 16.7,
         "WingSpan": [
@@ -21104,6 +21354,11 @@
         },
         "fmFile": "fm/f_104g.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104g",
         "Length": 16.7,
         "WingSpan": [
@@ -21182,6 +21437,11 @@
         },
         "fmFile": "fm/f_104g.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104g",
         "Length": 16.7,
         "WingSpan": [
@@ -21260,6 +21520,11 @@
         },
         "fmFile": "fm/f_104g_italy.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104g_italy",
         "Length": 16.7,
         "WingSpan": [
@@ -21338,6 +21603,11 @@
         },
         "fmFile": "fm/f_104g_italy.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104g_italy",
         "Length": 16.7,
         "WingSpan": [
@@ -21416,6 +21686,9 @@
         },
         "fmFile": "fm/f_104j.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 45000.0
+        },
         "FmID": "f_104j",
         "Length": 16.7,
         "WingSpan": [
@@ -21494,6 +21767,11 @@
         },
         "fmFile": "fm/f_104s.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104s",
         "Length": 16.7,
         "WingSpan": [
@@ -21572,6 +21850,9 @@
         },
         "fmFile": "fm/f_104s_asa.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "f_104s_asa",
         "Length": 16.7,
         "WingSpan": [
@@ -21650,6 +21931,11 @@
         },
         "fmFile": "fm/f_104s_cb.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_104s_cb",
         "Length": 16.7,
         "WingSpan": [
@@ -21728,6 +22014,11 @@
         },
         "fmFile": "fm/f_105d.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_105d",
         "Length": 19.6,
         "WingSpan": [
@@ -21807,6 +22098,11 @@
         },
         "fmFile": "fm/f-4c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4c",
         "Length": 17.0,
         "WingSpan": [
@@ -21881,6 +22177,11 @@
         },
         "fmFile": "fm/f-4e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4e",
         "Length": 17.0,
         "WingSpan": [
@@ -21960,6 +22261,11 @@
         },
         "fmFile": "fm/f-4ej.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4ej",
         "Length": 17.0,
         "WingSpan": [
@@ -22034,6 +22340,11 @@
         },
         "fmFile": "fm/f-4ej.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4ej",
         "Length": 17.0,
         "WingSpan": [
@@ -22108,6 +22419,11 @@
         },
         "fmFile": "fm/f-4ej.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4ej",
         "Length": 17.0,
         "WingSpan": [
@@ -22182,6 +22498,11 @@
         },
         "fmFile": "fm/f-4e_iaf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4e_iaf",
         "Length": 17.0,
         "WingSpan": [
@@ -22261,6 +22582,11 @@
         },
         "fmFile": "fm/f-4e_iaf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4e_iaf",
         "Length": 17.0,
         "WingSpan": [
@@ -22340,6 +22666,11 @@
         },
         "fmFile": "fm/f-4f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4f",
         "Length": 17.0,
         "WingSpan": [
@@ -22419,6 +22750,11 @@
         },
         "fmFile": "fm/f-4f_kws_lv.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4f_kws_lv",
         "Length": 17.0,
         "WingSpan": [
@@ -22498,6 +22834,11 @@
         },
         "fmFile": "fm/f-4f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4f",
         "Length": 17.0,
         "WingSpan": [
@@ -22577,6 +22918,11 @@
         },
         "fmFile": "fm/f-4j.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4j",
         "Length": 17.0,
         "WingSpan": [
@@ -22655,6 +23001,11 @@
         },
         "fmFile": "fm/f-4j.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4j",
         "Length": 17.0,
         "WingSpan": [
@@ -22733,6 +23084,11 @@
         },
         "fmFile": "fm/f-4k.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4k",
         "Length": 17.0,
         "WingSpan": [
@@ -22807,6 +23163,11 @@
         },
         "fmFile": "fm/f-4m_fgr2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4m_fgr2",
         "Length": 17.0,
         "WingSpan": [
@@ -22881,6 +23242,11 @@
         },
         "fmFile": "fm/f-4s.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4s",
         "Length": 17.0,
         "WingSpan": [
@@ -23335,6 +23701,11 @@
         },
         "fmFile": "fm/f_5e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_5e",
         "Length": 14.68,
         "WingSpan": [
@@ -23410,6 +23781,11 @@
         },
         "fmFile": "fm/f_5e_aidc.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_5e_aidc",
         "Length": 14.68,
         "WingSpan": [
@@ -23485,6 +23861,11 @@
         },
         "fmFile": "fm/f_5e_fcu_thailand.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_5e_fcu_thailand",
         "Length": 14.68,
         "WingSpan": [
@@ -23560,6 +23941,11 @@
         },
         "fmFile": "fm/f-5e_switzerland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-5e_switzerland",
         "Length": 14.68,
         "WingSpan": [
@@ -23635,6 +24021,11 @@
         },
         "fmFile": "fm/f_5t_thailand.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 100.0,
+            "TargetRangeMax": 30000.0
+        },
         "FmID": "f_5t_thailand",
         "Length": 14.68,
         "WingSpan": [
@@ -23710,6 +24101,11 @@
         },
         "fmFile": "fm/f_5t_thailand.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_5t_thailand",
         "Length": 14.68,
         "WingSpan": [
@@ -26429,6 +26825,11 @@
         },
         "fmFile": "fm/f-8e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-8e",
         "Length": 16.52,
         "WingSpan": [
@@ -26593,6 +26994,11 @@
         },
         "fmFile": "fm/f1.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f1",
         "Length": 16.55,
         "WingSpan": [
@@ -29228,6 +29634,11 @@
         },
         "fmFile": "fm/f8u-2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f8u-2",
         "Length": 16.52,
         "WingSpan": [
@@ -29668,6 +30079,11 @@
         },
         "fmFile": "fm/fa_18a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18a",
         "Length": 17.1,
         "WingSpan": [
@@ -29742,6 +30158,11 @@
         },
         "fmFile": "fm/fa_18a_hug_2_raaf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18a_hug_2_raaf",
         "Length": 17.1,
         "WingSpan": [
@@ -29816,6 +30237,11 @@
         },
         "fmFile": "fm/fa_18a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18a",
         "Length": 17.1,
         "WingSpan": [
@@ -29890,6 +30316,11 @@
         },
         "fmFile": "fm/fa_18c_early.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_early",
         "Length": 17.1,
         "WingSpan": [
@@ -29964,6 +30395,11 @@
         },
         "fmFile": "fm/fa_18c_finland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_finland",
         "Length": 17.1,
         "WingSpan": [
@@ -30038,6 +30474,11 @@
         },
         "fmFile": "fm/fa_18c_late.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_late",
         "Length": 17.1,
         "WingSpan": [
@@ -30112,6 +30553,11 @@
         },
         "fmFile": "fm/fa_18c_late_switzerland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_late_switzerland",
         "Length": 17.1,
         "WingSpan": [
@@ -30186,6 +30632,11 @@
         },
         "fmFile": "fm/fa_18c_mlu_2_finland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_mlu_2_finland",
         "Length": 17.1,
         "WingSpan": [
@@ -30260,6 +30711,11 @@
         },
         "fmFile": "fm/fa_18c_late_switzerland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "fa_18c_late_switzerland",
         "Length": 17.1,
         "WingSpan": [
@@ -34305,6 +34761,11 @@
         },
         "fmFile": "fm/f_100f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_100f",
         "Length": 15.8,
         "WingSpan": [
@@ -34443,6 +34904,11 @@
         },
         "fmFile": "fm/f_111a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_111a",
         "Length": 22.2,
         "WingSpan": [
@@ -34578,6 +35044,9 @@
         },
         "fmFile": "fm/f_111c.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0
+        },
         "FmID": "f_111c",
         "Length": 22.2,
         "WingSpan": [
@@ -34713,6 +35182,9 @@
         },
         "fmFile": "fm/f_111f.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0
+        },
         "FmID": "f_111f",
         "Length": 22.2,
         "WingSpan": [
@@ -34848,6 +35320,9 @@
         },
         "fmFile": "fm/f_111f.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0
+        },
         "FmID": "f_111f",
         "Length": 22.2,
         "WingSpan": [
@@ -34983,6 +35458,9 @@
         },
         "fmFile": "fm/f_111f.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0
+        },
         "FmID": "f_111f",
         "Length": 22.2,
         "WingSpan": [
@@ -35118,6 +35596,9 @@
         },
         "fmFile": "fm/f_111f.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 55000.0
+        },
         "FmID": "f_111f",
         "Length": 22.2,
         "WingSpan": [
@@ -35318,6 +35799,11 @@
         },
         "fmFile": "fm/f_14a_early.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_14a_early",
         "Length": 16.7,
         "WingSpan": [
@@ -35453,6 +35939,11 @@
         },
         "fmFile": "fm/f_14a_iriaf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_14a_iriaf",
         "Length": 16.7,
         "WingSpan": [
@@ -35588,6 +36079,11 @@
         },
         "fmFile": "fm/f_14b.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_14b",
         "Length": 16.7,
         "WingSpan": [
@@ -35723,6 +36219,11 @@
         },
         "fmFile": "fm/f_15a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15a",
         "Length": 19.4,
         "WingSpan": [
@@ -35797,6 +36298,11 @@
         },
         "fmFile": "fm/f_15a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15a",
         "Length": 19.4,
         "WingSpan": [
@@ -35871,6 +36377,11 @@
         },
         "fmFile": "fm/f_15c_baz_msip.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15c_baz_msip",
         "Length": 19.4,
         "WingSpan": [
@@ -35945,6 +36456,11 @@
         },
         "fmFile": "fm/f_15c_golden_eagle.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15c_golden_eagle",
         "Length": 19.4,
         "WingSpan": [
@@ -36019,6 +36535,11 @@
         },
         "fmFile": "fm/f_15c_msip2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15c_msip2",
         "Length": 19.4,
         "WingSpan": [
@@ -36093,6 +36614,11 @@
         },
         "fmFile": "fm/f_15e.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15e",
         "Length": 19.4,
         "WingSpan": [
@@ -36167,6 +36693,11 @@
         },
         "fmFile": "fm/f_15i_raam.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15i_raam",
         "Length": 19.4,
         "WingSpan": [
@@ -36241,6 +36772,11 @@
         },
         "fmFile": "fm/f_15j.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15j",
         "Length": 19.4,
         "WingSpan": [
@@ -36315,6 +36851,11 @@
         },
         "fmFile": "fm/f_15j_kai.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_15j_kai",
         "Length": 19.4,
         "WingSpan": [
@@ -36389,6 +36930,11 @@
         },
         "fmFile": "fm/f_16aj.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16aj",
         "Length": 15.1,
         "WingSpan": [
@@ -36463,6 +37009,11 @@
         },
         "fmFile": "fm/f_16am_block_15_mlu_belgium.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16am_block_15_mlu_belgium",
         "Length": 15.1,
         "WingSpan": [
@@ -36537,6 +37088,11 @@
         },
         "fmFile": "fm/f_16a_block_20_mlu.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_20_mlu",
         "Length": 15.1,
         "WingSpan": [
@@ -36611,6 +37167,11 @@
         },
         "fmFile": "fm/f_16a_block_10.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_10",
         "Length": 15.1,
         "WingSpan": [
@@ -36685,6 +37246,11 @@
         },
         "fmFile": "fm/f_16a_block_10.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_10",
         "Length": 15.1,
         "WingSpan": [
@@ -36759,6 +37325,11 @@
         },
         "fmFile": "fm/f_16a_block_10_mod.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_10_mod",
         "Length": 15.1,
         "WingSpan": [
@@ -36833,6 +37404,11 @@
         },
         "fmFile": "fm/f_16a_block_15_adf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_15_adf",
         "Length": 15.1,
         "WingSpan": [
@@ -36907,6 +37483,11 @@
         },
         "fmFile": "fm/f_16a_block_15_adf_italy.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_15_adf_italy",
         "Length": 15.1,
         "WingSpan": [
@@ -36981,6 +37562,11 @@
         },
         "fmFile": "fm/f_16a_block_15_belgium.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_15_belgium",
         "Length": 15.1,
         "WingSpan": [
@@ -37055,6 +37641,11 @@
         },
         "fmFile": "fm/f_16a_block_15_ocu_belgium.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_15_ocu_belgium",
         "Length": 15.1,
         "WingSpan": [
@@ -37129,6 +37720,11 @@
         },
         "fmFile": "fm/f_16a_block_15_ocu_thailand.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_15_ocu_thailand",
         "Length": 15.1,
         "WingSpan": [
@@ -37203,6 +37799,11 @@
         },
         "fmFile": "fm/f_16a_block_20_mlu.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16a_block_20_mlu",
         "Length": 15.1,
         "WingSpan": [
@@ -37277,6 +37878,11 @@
         },
         "fmFile": "fm/f_16c_block_40_barak_2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16c_block_40_barak_2",
         "Length": 15.1,
         "WingSpan": [
@@ -37351,6 +37957,11 @@
         },
         "fmFile": "fm/f_16c_block_50.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16c_block_50",
         "Length": 15.1,
         "WingSpan": [
@@ -37425,6 +38036,11 @@
         },
         "fmFile": "fm/f_16c_block_50.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16c_block_50",
         "Length": 15.1,
         "WingSpan": [
@@ -37499,6 +38115,11 @@
         },
         "fmFile": "fm/f_16d_block_40_barak_2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16d_block_40_barak_2",
         "Length": 15.1,
         "WingSpan": [
@@ -37573,6 +38194,11 @@
         },
         "fmFile": "fm/f_16d_block_40_barak_2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16d_block_40_barak_2",
         "Length": 15.1,
         "WingSpan": [
@@ -37647,6 +38273,11 @@
         },
         "fmFile": "fm/f_16i_sufa.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_16i_sufa",
         "Length": 15.1,
         "WingSpan": [
@@ -37721,6 +38352,11 @@
         },
         "fmFile": "fm/f_20a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f_20a",
         "Length": 14.4,
         "WingSpan": [
@@ -37859,6 +38495,11 @@
         },
         "fmFile": "fm/f_2a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 90000.0,
+            "TargetRangeMin": 9250.0,
+            "TargetRangeMax": 74000.0
+        },
         "FmID": "f_2a",
         "Length": 16.0,
         "WingSpan": [
@@ -37933,6 +38574,11 @@
         },
         "fmFile": "fm/f_2a_adtw.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 90000.0,
+            "TargetRangeMin": 9250.0,
+            "TargetRangeMax": 74000.0
+        },
         "FmID": "f_2a_adtw",
         "Length": 16.0,
         "WingSpan": [
@@ -38082,6 +38728,11 @@
         },
         "fmFile": "fm/f-4e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "f-4e",
         "Length": 17.0,
         "WingSpan": [
@@ -39643,6 +40294,11 @@
         },
         "fmFile": "fm/g_lynx.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "g_lynx",
         "Length": 16.0,
         "WingSpan": [
@@ -41356,6 +42012,11 @@
         },
         "fmFile": "fm/harrier_frs1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "harrier_frs1",
         "Length": 14.3,
         "WingSpan": [
@@ -41434,6 +42095,11 @@
         },
         "fmFile": "fm/harrier_frs1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "harrier_frs1",
         "Length": 14.3,
         "WingSpan": [
@@ -41668,6 +42334,11 @@
         },
         "fmFile": "fm/harrier_gr7.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "harrier_gr7",
         "Length": 14.12,
         "WingSpan": [
@@ -41746,6 +42417,11 @@
         },
         "fmFile": "fm/harrier_t10.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "harrier_t10",
         "Length": 14.12,
         "WingSpan": [
@@ -41899,6 +42575,11 @@
         },
         "fmFile": "fm/hawk_200_rda.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "hawk_200_rda",
         "Length": 11.3,
         "WingSpan": [
@@ -45226,6 +45907,11 @@
         },
         "fmFile": "fm/hunter_f58a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "hunter_f58a",
         "Length": 12.8,
         "WingSpan": [
@@ -45301,6 +45987,11 @@
         },
         "fmFile": "fm/hunter_f58a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "hunter_f58a",
         "Length": 12.8,
         "WingSpan": [
@@ -51532,6 +52223,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -51611,6 +52307,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -51690,6 +52391,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -51769,6 +52475,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -51848,6 +52559,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -51927,6 +52643,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -52006,6 +52727,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -52085,6 +52811,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -52164,6 +52895,11 @@
         },
         "fmFile": "fm/jaguar_a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_a",
         "Length": 16.95,
         "WingSpan": [
@@ -52401,6 +53137,9 @@
         },
         "fmFile": "fm/jaguar_gr1a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "jaguar_gr1a",
         "Length": 16.95,
         "WingSpan": [
@@ -52480,6 +53219,11 @@
         },
         "fmFile": "fm/jaguar_is.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jaguar_is",
         "Length": 16.95,
         "WingSpan": [
@@ -52634,6 +53378,11 @@
         },
         "fmFile": "fm/jf_17.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jf_17",
         "Length": 14.1,
         "WingSpan": [
@@ -52708,6 +53457,11 @@
         },
         "fmFile": "fm/jh_7.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jh_7",
         "Length": 21.03,
         "WingSpan": [
@@ -52783,6 +53537,11 @@
         },
         "fmFile": "fm/jh_7a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jh_7a",
         "Length": 21.03,
         "WingSpan": [
@@ -52858,6 +53617,11 @@
         },
         "fmFile": "fm/jh_7a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "jh_7a",
         "Length": 21.03,
         "WingSpan": [
@@ -54198,6 +54962,11 @@
         },
         "fmFile": "fm/j_10a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_10a",
         "Length": 14.6,
         "WingSpan": [
@@ -54261,6 +55030,11 @@
         },
         "fmFile": "fm/j_11.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_11",
         "Length": 21.93,
         "WingSpan": [
@@ -54335,6 +55109,11 @@
         },
         "fmFile": "fm/j_11a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_11a",
         "Length": 21.93,
         "WingSpan": [
@@ -54409,6 +55188,11 @@
         },
         "fmFile": "fm/j_11b.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_11b",
         "Length": 21.93,
         "WingSpan": [
@@ -54483,6 +55267,9 @@
         },
         "fmFile": "fm/j_7d.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "j_7d",
         "Length": 14.1,
         "WingSpan": [
@@ -54557,6 +55344,11 @@
         },
         "fmFile": "fm/j_7e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_7e",
         "Length": 14.1,
         "WingSpan": [
@@ -54705,6 +55497,9 @@
         },
         "fmFile": "fm/j_8b.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "j_8b",
         "Length": 14.1,
         "WingSpan": [
@@ -54779,6 +55574,11 @@
         },
         "fmFile": "fm/j_8f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_8f",
         "Length": 14.1,
         "WingSpan": [
@@ -54853,6 +55653,11 @@
         },
         "fmFile": "fm/j_8f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "j_8f",
         "Length": 14.1,
         "WingSpan": [
@@ -54990,6 +55795,11 @@
         },
         "fmFile": "fm/ka_50.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ka_50",
         "Length": 14.2,
         "WingSpan": [
@@ -55053,6 +55863,11 @@
         },
         "fmFile": "fm/ka_52.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "ka_52",
         "Length": 14.2,
         "WingSpan": [
@@ -55116,6 +55931,11 @@
         },
         "fmFile": "fm/kfir_c10_colombia.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "kfir_c10_colombia",
         "Length": 15.01,
         "WingSpan": [
@@ -55179,6 +55999,11 @@
         },
         "fmFile": "fm/kfir_c2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "kfir_c2",
         "Length": 15.01,
         "WingSpan": [
@@ -55242,6 +56067,11 @@
         },
         "fmFile": "fm/kfir_c7.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "kfir_c7",
         "Length": 15.01,
         "WingSpan": [
@@ -55305,6 +56135,11 @@
         },
         "fmFile": "fm/kfir_canard.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "kfir_canard",
         "Length": 15.01,
         "WingSpan": [
@@ -62709,6 +63544,11 @@
         },
         "fmFile": "fm/lynx_ah_mk1.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "lynx_ah_mk1",
         "Length": 16.0,
         "WingSpan": [
@@ -67818,6 +68658,11 @@
         },
         "fmFile": "fm/mh_60l_dap.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mh_60l_dap",
         "Length": 16.0,
         "WingSpan": [
@@ -68610,6 +69455,9 @@
         },
         "fmFile": "fm/mig-17p_lim_5p.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-17p_lim_5p",
         "Length": 11.264,
         "WingSpan": [
@@ -68684,6 +69532,9 @@
         },
         "fmFile": "fm/mig-17p_lim_5p.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-17p_lim_5p",
         "Length": 11.264,
         "WingSpan": [
@@ -68980,6 +69831,9 @@
         },
         "fmFile": "fm/mig-19j_6a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-19j_6a",
         "Length": 13.02,
         "WingSpan": [
@@ -69058,6 +69912,9 @@
         },
         "fmFile": "fm/mig-19.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-19",
         "Length": 13.02,
         "WingSpan": [
@@ -69136,6 +69993,9 @@
         },
         "fmFile": "fm/mig-19s.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-19s",
         "Length": 12.54,
         "WingSpan": [
@@ -69214,6 +70074,9 @@
         },
         "fmFile": "fm/mig-21_bis.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_bis",
         "Length": 14.1,
         "WingSpan": [
@@ -69288,6 +70151,11 @@
         },
         "fmFile": "fm/mig-21_bison.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig-21_bison",
         "Length": 14.1,
         "WingSpan": [
@@ -69362,6 +70230,9 @@
         },
         "fmFile": "fm/mig-21_bis.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_bis",
         "Length": 14.1,
         "WingSpan": [
@@ -69436,6 +70307,9 @@
         },
         "fmFile": "fm/mig-21_bis_lazur.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_bis_lazur",
         "Length": 14.1,
         "WingSpan": [
@@ -69510,6 +70384,9 @@
         },
         "fmFile": "fm/mig-21_bis.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_bis",
         "Length": 14.1,
         "WingSpan": [
@@ -69584,6 +70461,9 @@
         },
         "fmFile": "fm/mig-21_bis.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_bis",
         "Length": 14.1,
         "WingSpan": [
@@ -69732,6 +70612,9 @@
         },
         "fmFile": "fm/mig-21_mf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_mf",
         "Length": 14.1,
         "WingSpan": [
@@ -69806,6 +70689,9 @@
         },
         "fmFile": "fm/mig-21_mf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_mf",
         "Length": 14.1,
         "WingSpan": [
@@ -69954,6 +70840,9 @@
         },
         "fmFile": "fm/mig-21_s.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_s",
         "Length": 14.1,
         "WingSpan": [
@@ -70028,6 +70917,9 @@
         },
         "fmFile": "fm/mig-21_smt.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig-21_smt",
         "Length": 14.1,
         "WingSpan": [
@@ -70102,6 +70994,9 @@
         },
         "fmFile": "fm/mig-21_pfm.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "mig-21_pfm",
         "Length": 14.1,
         "WingSpan": [
@@ -70468,6 +71363,9 @@
         },
         "fmFile": "fm/mig_21_bis_finland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_21_bis_finland",
         "Length": 14.1,
         "WingSpan": [
@@ -70676,6 +71574,9 @@
         },
         "fmFile": "fm/mig_23m.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_23m",
         "Length": 16.7,
         "WingSpan": [
@@ -70810,6 +71711,9 @@
         },
         "fmFile": "fm/mig_23mf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_23mf",
         "Length": 16.7,
         "WingSpan": [
@@ -70944,6 +71848,9 @@
         },
         "fmFile": "fm/mig_23mf.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_23mf",
         "Length": 16.7,
         "WingSpan": [
@@ -71078,6 +71985,9 @@
         },
         "fmFile": "fm/mig_23ml.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_23ml",
         "Length": 16.7,
         "WingSpan": [
@@ -71212,6 +72122,9 @@
         },
         "fmFile": "fm/mig_23mla.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mig_23mla",
         "Length": 16.7,
         "WingSpan": [
@@ -71346,6 +72259,11 @@
         },
         "fmFile": "fm/mig_23mld.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_23mld",
         "Length": 16.7,
         "WingSpan": [
@@ -71480,6 +72398,11 @@
         },
         "fmFile": "fm/mig_27k.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_27k",
         "Length": 16.7,
         "WingSpan": [
@@ -71614,6 +72537,11 @@
         },
         "fmFile": "fm/mig_27m.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_27m",
         "Length": 16.7,
         "WingSpan": [
@@ -71748,6 +72676,11 @@
         },
         "fmFile": "fm/mig_29smt_9_19.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29smt_9_19",
         "Length": 15.1,
         "WingSpan": [
@@ -71822,6 +72755,11 @@
         },
         "fmFile": "fm/mig_29smt_9_19.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29smt_9_19",
         "Length": 15.1,
         "WingSpan": [
@@ -71896,6 +72834,11 @@
         },
         "fmFile": "fm/mig_29_9_12_germany.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29_9_12_germany",
         "Length": 15.1,
         "WingSpan": [
@@ -71970,6 +72913,11 @@
         },
         "fmFile": "fm/mig_29_9_12g.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29_9_12g",
         "Length": 15.1,
         "WingSpan": [
@@ -72044,6 +72992,11 @@
         },
         "fmFile": "fm/mig_29_9_12_germany.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29_9_12_germany",
         "Length": 15.1,
         "WingSpan": [
@@ -72118,6 +73071,11 @@
         },
         "fmFile": "fm/mig_29_9_12_germany.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29_9_12_germany",
         "Length": 15.1,
         "WingSpan": [
@@ -72192,6 +73150,11 @@
         },
         "fmFile": "fm/mig_29_9_13.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mig_29_9_13",
         "Length": 15.1,
         "WingSpan": [
@@ -72716,6 +73679,11 @@
         },
         "fmFile": "fm/mirage_2000c_s5.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000c_s5",
         "Length": 15.3,
         "WingSpan": [
@@ -72779,6 +73747,11 @@
         },
         "fmFile": "fm/mirage_2000c_s5.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000c_s5",
         "Length": 15.3,
         "WingSpan": [
@@ -72842,6 +73815,11 @@
         },
         "fmFile": "fm/mirage_2000d_r1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000d_r1",
         "Length": 15.3,
         "WingSpan": [
@@ -72905,6 +73883,11 @@
         },
         "fmFile": "fm/mirage_2000d_rmv.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000d_rmv",
         "Length": 15.3,
         "WingSpan": [
@@ -72968,6 +73951,11 @@
         },
         "fmFile": "fm/mirage_2000_5ei.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000_5ei",
         "Length": 15.3,
         "WingSpan": [
@@ -73031,6 +74019,11 @@
         },
         "fmFile": "fm/mirage_2000_5f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000_5f",
         "Length": 15.3,
         "WingSpan": [
@@ -73094,6 +74087,11 @@
         },
         "fmFile": "fm/mirage_2000_5f.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_2000_5f",
         "Length": 15.3,
         "WingSpan": [
@@ -73220,6 +74218,9 @@
         },
         "fmFile": "fm/mirage_3cj.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mirage_3cj",
         "Length": 14.77,
         "WingSpan": [
@@ -73283,6 +74284,9 @@
         },
         "fmFile": "fm/mirage_3e.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mirage_3e",
         "Length": 14.77,
         "WingSpan": [
@@ -73346,6 +74350,11 @@
         },
         "fmFile": "fm/mirage_3s_c70_switzerland.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_3s_c70_switzerland",
         "Length": 14.77,
         "WingSpan": [
@@ -73409,6 +74418,11 @@
         },
         "fmFile": "fm/mirage_4000.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_4000",
         "Length": 18.7,
         "WingSpan": [
@@ -73598,6 +74612,9 @@
         },
         "fmFile": "fm/mirage_f1c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mirage_f1c",
         "Length": 15.25,
         "WingSpan": [
@@ -73677,6 +74694,11 @@
         },
         "fmFile": "fm/mirage_f1c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mirage_f1c",
         "Length": 15.25,
         "WingSpan": [
@@ -73756,6 +74778,9 @@
         },
         "fmFile": "fm/mirage_f1c_200.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "mirage_f1c_200",
         "Length": 15.25,
         "WingSpan": [
@@ -74478,6 +75503,11 @@
         },
         "fmFile": "fm/mi_28a_sweden.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_28a_sweden",
         "Length": 17.51,
         "WingSpan": [
@@ -74541,6 +75571,11 @@
         },
         "fmFile": "fm/mi_28n.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_28n",
         "Length": 17.51,
         "WingSpan": [
@@ -74604,6 +75639,11 @@
         },
         "fmFile": "fm/mi_28nm.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_28nm",
         "Length": 17.51,
         "WingSpan": [
@@ -74667,6 +75707,11 @@
         },
         "fmFile": "fm/mi_35m.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_35m",
         "Length": 17.51,
         "WingSpan": [
@@ -74730,6 +75775,11 @@
         },
         "fmFile": "fm/mi_35m.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_35m",
         "Length": 17.51,
         "WingSpan": [
@@ -74793,6 +75843,11 @@
         },
         "fmFile": "fm/mi_35p.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_35p",
         "Length": 17.51,
         "WingSpan": [
@@ -75045,6 +76100,11 @@
         },
         "fmFile": "fm/mi_8amtsh_vn.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "mi_8amtsh_vn",
         "Length": 18.3,
         "WingSpan": [
@@ -77025,6 +78085,11 @@
         },
         "fmFile": "fm/oh_58d.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "oh_58d",
         "Length": 10.48,
         "WingSpan": [
@@ -77088,6 +78153,11 @@
         },
         "fmFile": "fm/oh_58d.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "oh_58d",
         "Length": 10.48,
         "WingSpan": [
@@ -87088,6 +88158,11 @@
         },
         "fmFile": "fm/q_5l.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "q_5l",
         "Length": 15.415,
         "WingSpan": [
@@ -87466,6 +88541,11 @@
         },
         "fmFile": "fm/rafale_c_f3.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 100000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "rafale_c_f3",
         "Length": 19.4,
         "WingSpan": [
@@ -87540,6 +88620,11 @@
         },
         "fmFile": "fm/rah_66.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "rah_66",
         "Length": 13.3,
         "WingSpan": [
@@ -88931,6 +90016,9 @@
         },
         "fmFile": "fm/saab_a32a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "saab_a32a",
         "Length": 14.65,
         "WingSpan": [
@@ -89005,6 +90093,9 @@
         },
         "fmFile": "fm/saab_a32a.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "saab_a32a",
         "Length": 14.65,
         "WingSpan": [
@@ -89079,6 +90170,9 @@
         },
         "fmFile": "fm/saab_aj37.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_aj37",
         "Length": 15.34,
         "WingSpan": [
@@ -89151,6 +90245,9 @@
         },
         "fmFile": "fm/saab_ajs37.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_ajs37",
         "Length": 15.34,
         "WingSpan": [
@@ -90544,6 +91641,9 @@
         },
         "fmFile": "fm/saab_ja37.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_ja37",
         "Length": 15.34,
         "WingSpan": [
@@ -90616,6 +91716,9 @@
         },
         "fmFile": "fm/saab_ja37.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_ja37",
         "Length": 15.34,
         "WingSpan": [
@@ -90688,6 +91791,9 @@
         },
         "fmFile": "fm/saab_ja37.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_ja37",
         "Length": 15.34,
         "WingSpan": [
@@ -90760,6 +91866,9 @@
         },
         "fmFile": "fm/saab_ja37.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0
+        },
         "FmID": "saab_ja37",
         "Length": 15.34,
         "WingSpan": [
@@ -90832,6 +91941,11 @@
         },
         "fmFile": "fm/saab_jas39a.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39a",
         "Length": 14.1,
         "WingSpan": [
@@ -90895,6 +92009,11 @@
         },
         "fmFile": "fm/saab_jas39c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39c",
         "Length": 14.1,
         "WingSpan": [
@@ -90958,6 +92077,11 @@
         },
         "fmFile": "fm/saab_jas39c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39c",
         "Length": 14.1,
         "WingSpan": [
@@ -91021,6 +92145,11 @@
         },
         "fmFile": "fm/saab_jas39c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39c",
         "Length": 14.1,
         "WingSpan": [
@@ -91084,6 +92213,11 @@
         },
         "fmFile": "fm/saab_jas39c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39c",
         "Length": 14.1,
         "WingSpan": [
@@ -91147,6 +92281,11 @@
         },
         "fmFile": "fm/saab_jas39c.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "saab_jas39c",
         "Length": 14.1,
         "WingSpan": [
@@ -93916,6 +95055,11 @@
         },
         "fmFile": "fm/sea_harrier_fa2.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "sea_harrier_fa2",
         "Length": 14.3,
         "WingSpan": [
@@ -99235,6 +100379,9 @@
         },
         "fmFile": "fm/su-7b.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "su-7b",
         "Length": 16.607,
         "WingSpan": [
@@ -99311,6 +100458,9 @@
         },
         "fmFile": "fm/su-7bkl.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "su-7bkl",
         "Length": 16.607,
         "WingSpan": [
@@ -99387,6 +100537,9 @@
         },
         "fmFile": "fm/su-7bkl.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "su-7bkl",
         "Length": 16.607,
         "WingSpan": [
@@ -99463,6 +100616,9 @@
         },
         "fmFile": "fm/su-7bkl.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "su-7bkl",
         "Length": 16.607,
         "WingSpan": [
@@ -99539,6 +100695,9 @@
         },
         "fmFile": "fm/su-7bmk.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 30000.0
+        },
         "FmID": "su-7bmk",
         "Length": 16.607,
         "WingSpan": [
@@ -99935,6 +101094,11 @@
         },
         "fmFile": "fm/super_etendard_97.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "super_etendard_97",
         "Length": 14.35,
         "WingSpan": [
@@ -100014,6 +101178,11 @@
         },
         "fmFile": "fm/super_hind_mk3.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "super_hind_mk3",
         "Length": 17.51,
         "WingSpan": [
@@ -100077,6 +101246,9 @@
         },
         "fmFile": "fm/su_17m2.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 50000.0
+        },
         "FmID": "su_17m2",
         "Length": 18.868,
         "WingSpan": [
@@ -100211,6 +101383,11 @@
         },
         "fmFile": "fm/su_17m4.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_17m4",
         "Length": 18.868,
         "WingSpan": [
@@ -100345,6 +101522,11 @@
         },
         "fmFile": "fm/su_22m3.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_22m3",
         "Length": 18.86,
         "WingSpan": [
@@ -100479,6 +101661,11 @@
         },
         "fmFile": "fm/su_22m3.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_22m3",
         "Length": 18.86,
         "WingSpan": [
@@ -100613,6 +101800,11 @@
         },
         "fmFile": "fm/su_22m4.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_22m4",
         "Length": 18.868,
         "WingSpan": [
@@ -100747,6 +101939,11 @@
         },
         "fmFile": "fm/su_22m4.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_22m4",
         "Length": 18.868,
         "WingSpan": [
@@ -100881,6 +102078,11 @@
         },
         "fmFile": "fm/su_22um3k.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_22um3k",
         "Length": 18.86,
         "WingSpan": [
@@ -101015,6 +102217,11 @@
         },
         "fmFile": "fm/su_24m.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_24m",
         "Length": 22.67,
         "WingSpan": [
@@ -101150,6 +102357,11 @@
         },
         "fmFile": "fm/su_24m.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_24m",
         "Length": 22.67,
         "WingSpan": [
@@ -101285,6 +102497,11 @@
         },
         "fmFile": "fm/su_24m.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_24m",
         "Length": 22.67,
         "WingSpan": [
@@ -101420,6 +102637,11 @@
         },
         "fmFile": "fm/su_25.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25",
         "Length": 14.16,
         "WingSpan": [
@@ -101494,6 +102716,11 @@
         },
         "fmFile": "fm/su_25k.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25k",
         "Length": 14.16,
         "WingSpan": [
@@ -101568,6 +102795,11 @@
         },
         "fmFile": "fm/su_25sm3.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25sm3",
         "Length": 14.16,
         "WingSpan": [
@@ -101642,6 +102874,11 @@
         },
         "fmFile": "fm/su_25t.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25t",
         "Length": 14.16,
         "WingSpan": [
@@ -101716,6 +102953,11 @@
         },
         "fmFile": "fm/su_25tm.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25tm",
         "Length": 14.16,
         "WingSpan": [
@@ -101790,6 +103032,11 @@
         },
         "fmFile": "fm/su_25_558arz.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_25_558arz",
         "Length": 14.16,
         "WingSpan": [
@@ -101864,6 +103111,11 @@
         },
         "fmFile": "fm/su_27.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_27",
         "Length": 21.93,
         "WingSpan": [
@@ -101938,6 +103190,11 @@
         },
         "fmFile": "fm/su_27sm.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_27sm",
         "Length": 21.93,
         "WingSpan": [
@@ -102012,6 +103269,11 @@
         },
         "fmFile": "fm/su_30mk2v_venezuela.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_30mk2v_venezuela",
         "Length": 21.93,
         "WingSpan": [
@@ -102086,6 +103348,11 @@
         },
         "fmFile": "fm/su_30sm.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_30sm",
         "Length": 21.93,
         "WingSpan": [
@@ -102160,6 +103427,11 @@
         },
         "fmFile": "fm/su_33.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_33",
         "Length": 21.93,
         "WingSpan": [
@@ -102234,6 +103506,11 @@
         },
         "fmFile": "fm/su_34.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "su_34",
         "Length": 23.4,
         "WingSpan": [
@@ -103944,6 +105221,11 @@
         },
         "fmFile": "fm/tiger_hac_france.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_hac_france",
         "Length": 16.0,
         "WingSpan": [
@@ -104007,6 +105289,11 @@
         },
         "fmFile": "fm/tiger_had_block2_france.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_had_block2_france",
         "Length": 16.0,
         "WingSpan": [
@@ -104070,6 +105357,11 @@
         },
         "fmFile": "fm/tiger_had_france.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_had_france",
         "Length": 16.0,
         "WingSpan": [
@@ -104133,6 +105425,11 @@
         },
         "fmFile": "fm/tiger_had_block2_france.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_had_block2_france",
         "Length": 16.0,
         "WingSpan": [
@@ -104196,6 +105493,11 @@
         },
         "fmFile": "fm/tiger_hap_france.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_hap_france",
         "Length": 16.0,
         "WingSpan": [
@@ -104259,6 +105561,11 @@
         },
         "fmFile": "fm/tiger_uht.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tiger_uht",
         "Length": 16.0,
         "WingSpan": [
@@ -104397,6 +105704,11 @@
         },
         "fmFile": "/fm/tornado_adv.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_adv",
         "Length": 18.6,
         "WingSpan": [
@@ -104560,6 +105872,11 @@
         },
         "fmFile": "/fm/tornado_f3.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_f3",
         "Length": 18.6,
         "WingSpan": [
@@ -104723,6 +106040,11 @@
         },
         "fmFile": "/fm/tornado_f3_late.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_f3_late",
         "Length": 18.6,
         "WingSpan": [
@@ -104886,6 +106208,11 @@
         },
         "fmFile": "/fm/tornado_gr1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_gr1",
         "Length": 16.7,
         "WingSpan": [
@@ -105049,6 +106376,11 @@
         },
         "fmFile": "/fm/tornado_gr4.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_gr4",
         "Length": 16.7,
         "WingSpan": [
@@ -105212,6 +106544,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -105375,6 +106712,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -105538,6 +106880,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -105701,6 +107048,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -105864,6 +107216,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -106027,6 +107384,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta1.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta1",
         "Length": 16.7,
         "WingSpan": [
@@ -106190,6 +107552,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_assta3_sle.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_assta3_sle",
         "Length": 16.7,
         "WingSpan": [
@@ -106353,6 +107720,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_mfg.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_mfg",
         "Length": 16.7,
         "WingSpan": [
@@ -106516,6 +107888,11 @@
         },
         "fmFile": "/fm/tornado_ids_de_wtd61.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_de_wtd61",
         "Length": 16.7,
         "WingSpan": [
@@ -106679,6 +108056,11 @@
         },
         "fmFile": "/fm/tornado_ids_it.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_it",
         "Length": 16.7,
         "WingSpan": [
@@ -106842,6 +108224,11 @@
         },
         "fmFile": "/fm/tornado_ids_it_mod95.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_it_mod95",
         "Length": 16.7,
         "WingSpan": [
@@ -107005,6 +108392,11 @@
         },
         "fmFile": "/fm/tornado_ids_it_ret8.blkx",
         "Type": "assault",
+        "RWR": {
+            "Range": 70000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "tornado_ids_it_ret8",
         "Length": 16.7,
         "WingSpan": [
@@ -112100,6 +113492,11 @@
         },
         "fmFile": "fm/yah_64.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "yah_64",
         "Length": 16.0,
         "WingSpan": [
@@ -114471,6 +115868,11 @@
         },
         "fmFile": "fm/yak_141.blkx",
         "Type": "fighter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "yak_141",
         "Length": 15.98,
         "WingSpan": [
@@ -114843,6 +116245,11 @@
         },
         "fmFile": "fm/z_10.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_10",
         "Length": 14.15,
         "WingSpan": [
@@ -115054,6 +116461,11 @@
         },
         "fmFile": "fm/z_10a.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_10a",
         "Length": 14.15,
         "WingSpan": [
@@ -115117,6 +116529,11 @@
         },
         "fmFile": "fm/z_10me.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_10me",
         "Length": 14.15,
         "WingSpan": [
@@ -115243,6 +116660,11 @@
         },
         "fmFile": "fm/z_19.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_19",
         "Length": 16.0,
         "WingSpan": [
@@ -115306,6 +116728,11 @@
         },
         "fmFile": "fm/z_19e.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 75000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_19e",
         "Length": 16.0,
         "WingSpan": [
@@ -115432,6 +116859,11 @@
         },
         "fmFile": "fm/z_9wa.blkx",
         "Type": "helicopter",
+        "RWR": {
+            "Range": 65000.0,
+            "TargetRangeMin": 5000.0,
+            "TargetRangeMax": 50000.0
+        },
         "FmID": "z_9wa",
         "Length": 16.0,
         "WingSpan": [

@@ -26,7 +26,7 @@ if __name__ == "__main__":
         exclude = ['h_81a_2']
         result_json = {}
 
-        plane_names = wt.WTUnitsName(fr'./War-Thunder-Datamine-master/lang.vromfs.bin_u/lang/units.csv')
+        plane_names = wt.WTUnitsName()
 
         # Список файлов есть, пошли по нему
         for file in res:
