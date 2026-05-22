@@ -23,7 +23,7 @@ if __name__ == "__main__":
         shutil.copy2('wtmfd_data_version.json', f'wtmfd_data_verion {json_version}.json')
 
         # Каталог откуда считываем флат модели
-        res = glob.glob(fr'./War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/flightmodels/*.blkx')
+        res = sorted(glob.glob(fr'./War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/flightmodels/*.blkx'))
         # Нет, нет и нет
         exclude = ['h_81a_2']
         result_json = {}
