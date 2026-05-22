@@ -1,5 +1,7 @@
 import glob
 import os
+import traceback
+
 import war_thunder_plane_info.wt as wt
 import json
 from packaging import version
@@ -30,13 +32,17 @@ if __name__ == "__main__":
 
         # Список файлов есть, пошли по нему
         for file in res:
+            plane_name = ''
+            plane_id = ''
             try:
                 plane_id = os.path.basename(file).replace('.blkx', '')
+                plane_name = plane_names[plane_id]
                 if plane_id not in exclude:
                     plane_datamine = wt.WTPlaneFullInfo(plane_id=plane_id, plane_name = plane_names[plane_id])
                     result_json[plane_id]=plane_datamine.get_all()
             except Exception as e:
-                print(e)
+                print(fr'Error. Name:{plane_name} ID:{plane_id} File:{file} Error: {e}')
+                #traceback.print_exc()
 
         with open('wtmfd_data.json', 'w', encoding="utf-8") as file:
             json.dump(result_json, file, ensure_ascii=False, indent=4)

@@ -1997,7 +1997,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2060,7 +2063,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2128,7 +2134,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2196,7 +2205,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2264,7 +2276,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2332,7 +2347,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2395,7 +2413,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2458,7 +2479,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2521,7 +2545,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2584,7 +2611,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2647,7 +2677,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2710,7 +2743,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2778,7 +2814,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2846,7 +2885,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2914,7 +2956,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -2982,7 +3027,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3045,7 +3093,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3113,7 +3164,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3181,7 +3235,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3249,7 +3306,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3317,7 +3377,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3385,7 +3448,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3453,7 +3519,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3521,7 +3590,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3589,7 +3661,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3657,7 +3732,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3725,7 +3803,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3793,7 +3874,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3861,7 +3945,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3929,7 +4016,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -3997,7 +4087,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4065,7 +4158,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4133,7 +4229,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4201,7 +4300,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4269,7 +4371,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4337,7 +4442,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -4476,6 +4584,7 @@
         ],
         "VLO": 390.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -4550,6 +4659,7 @@
         ],
         "VLO": 390.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -4624,6 +4734,7 @@
         ],
         "VLO": 390.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -4698,6 +4809,7 @@
         ],
         "VLO": 390.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -4772,6 +4884,7 @@
         ],
         "VLO": 390.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -5757,7 +5870,10 @@
             ]
         ],
         "VLO": 397.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -5830,6 +5946,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -5913,6 +6030,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -5996,6 +6114,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -6079,6 +6198,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -6157,6 +6277,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -6235,6 +6356,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -6313,6 +6435,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -6395,7 +6518,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -6464,6 +6590,7 @@
         ],
         "VLO": 370.4,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 24.0
         },
         "VFE": [
@@ -6543,6 +6670,7 @@
         ],
         "VLO": 370.4,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 24.0
         },
         "VFE": [
@@ -6622,6 +6750,7 @@
         ],
         "VLO": 370.4,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 24.0
         },
         "VFE": [
@@ -6700,7 +6829,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -6768,7 +6900,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -6836,7 +6971,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -7500,6 +7638,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -7583,6 +7722,7 @@
         ],
         "VLO": 460.0,
         "Flaps": {
+            "Combat": 45.0,
             "Takeoff": 70.0
         },
         "VFE": [
@@ -9172,7 +9312,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -9244,7 +9387,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -12824,7 +12970,10 @@
             ]
         ],
         "VLO": 280.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -13120,7 +13269,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -13492,7 +13644,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -13555,7 +13710,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -13618,7 +13776,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -13682,6 +13843,7 @@
         ],
         "VLO": 262.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -13756,6 +13918,7 @@
         ],
         "VLO": 342.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -13830,6 +13993,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -13904,6 +14068,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -14988,6 +15153,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -15062,6 +15228,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -15136,6 +15303,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -16142,6 +16310,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -16215,7 +16384,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16287,7 +16459,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16359,7 +16534,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16431,7 +16609,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16503,7 +16684,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16575,7 +16759,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16647,7 +16834,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16719,7 +16909,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16791,7 +16984,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -16863,7 +17059,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -17020,6 +17219,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -17172,7 +17372,10 @@
             ]
         ],
         "VLO": 590.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -17235,7 +17438,10 @@
             ]
         ],
         "VLO": 590.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -17298,7 +17504,10 @@
             ]
         ],
         "VLO": 590.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -17815,7 +18024,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -17891,7 +18103,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -17967,7 +18182,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -18118,7 +18336,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -18196,6 +18417,7 @@
         ],
         "VLO": 407.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -18274,6 +18496,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -18423,6 +18646,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -18879,6 +19103,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -18953,6 +19178,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19027,6 +19253,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19101,6 +19328,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19175,6 +19403,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19249,6 +19478,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19323,6 +19553,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19397,6 +19628,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19471,6 +19703,7 @@
         ],
         "VLO": 285.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19549,6 +19782,7 @@
         ],
         "VLO": 285.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19627,6 +19861,7 @@
         ],
         "VLO": 285.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -19704,7 +19939,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -19780,7 +20018,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -19843,7 +20084,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -19906,7 +20150,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -19978,7 +20225,10 @@
             ]
         ],
         "VLO": 577.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -20041,7 +20291,10 @@
             ]
         ],
         "VLO": 577.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -20104,7 +20357,10 @@
             ]
         ],
         "VLO": 577.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -20167,7 +20423,10 @@
             ]
         ],
         "VLO": 577.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -20605,6 +20864,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -20684,6 +20944,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -20763,6 +21024,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -20842,6 +21104,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -20921,6 +21184,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -21000,6 +21264,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -21607,7 +21872,10 @@
             ]
         ],
         "VLO": 447.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -21831,6 +22099,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -21909,6 +22178,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -21992,6 +22262,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22075,6 +22346,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22158,6 +22430,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22241,6 +22514,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22324,6 +22598,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22405,6 +22680,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22488,6 +22764,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22569,6 +22846,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22652,6 +22930,7 @@
         ],
         "VLO": 546.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22819,6 +23098,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -22982,6 +23262,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -23061,6 +23342,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -23140,6 +23422,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -23807,6 +24090,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -23886,6 +24170,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -27548,7 +27833,8 @@
         ],
         "VLO": 428.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -27630,7 +27916,8 @@
         ],
         "VLO": 428.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -27717,6 +28004,7 @@
         ],
         "VLO": 485.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -27794,7 +28082,10 @@
             ]
         ],
         "VLO": 447.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.2,
@@ -28391,7 +28682,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -28454,7 +28748,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -28597,7 +28894,8 @@
         ],
         "VLO": 407.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -28670,7 +28968,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -28742,7 +29043,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -28814,7 +29118,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -30357,7 +30664,8 @@
         ],
         "VLO": 428.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -30586,7 +30894,10 @@
             ]
         ],
         "VLO": 410.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -30803,6 +31114,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -30882,6 +31194,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -30961,6 +31274,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31040,6 +31354,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31119,6 +31434,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31198,6 +31514,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31277,6 +31594,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31356,6 +31674,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31435,6 +31754,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31514,6 +31834,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31593,6 +31914,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31672,6 +31994,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -31746,6 +32069,7 @@
         ],
         "VLO": 280.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -32048,7 +32372,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -32111,7 +32438,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -32174,7 +32504,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -32237,7 +32570,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -32300,7 +32636,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -33671,7 +34010,10 @@
             ]
         ],
         "VLO": 290.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -33747,7 +34089,10 @@
             ]
         ],
         "VLO": 290.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -33823,7 +34168,10 @@
             ]
         ],
         "VLO": 290.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -34194,7 +34542,10 @@
             ]
         ],
         "VLO": 600.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -34257,7 +34608,10 @@
             ]
         ],
         "VLO": 600.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -34396,6 +34750,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34474,6 +34829,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34552,6 +34908,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34630,6 +34987,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34708,6 +35066,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34786,6 +35145,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34864,6 +35224,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -34942,6 +35303,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35020,6 +35382,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35098,6 +35461,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35176,6 +35540,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35254,6 +35619,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35332,6 +35698,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35410,6 +35777,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35488,6 +35856,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35566,6 +35935,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35644,6 +36014,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35722,6 +36093,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 5.0,
             "Takeoff": 13.0
         },
         "VFE": [
@@ -35800,6 +36172,7 @@
         ],
         "VLO": 200.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -35953,7 +36326,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -36847,6 +37223,7 @@
         ],
         "VLO": 555.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [],
@@ -37337,6 +37714,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37416,6 +37794,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37495,6 +37874,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37574,6 +37954,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37653,6 +38034,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37732,6 +38114,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37811,6 +38194,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37890,6 +38274,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -37969,6 +38354,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -38048,6 +38434,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38127,6 +38514,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38206,6 +38594,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38285,6 +38674,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38364,6 +38754,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38443,6 +38834,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38522,6 +38914,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38601,6 +38994,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38680,6 +39074,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38759,6 +39154,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38838,6 +39234,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38917,6 +39314,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -38996,6 +39394,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39075,6 +39474,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39154,6 +39554,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39233,6 +39634,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39312,6 +39714,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39391,6 +39794,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39470,6 +39874,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39549,6 +39954,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39628,6 +40034,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39781,7 +40188,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -39850,6 +40260,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -39929,6 +40340,7 @@
         ],
         "VLO": 482.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 99.0
         },
         "VFE": [
@@ -40162,6 +40574,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40615,6 +41028,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40689,6 +41103,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40763,6 +41178,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40837,6 +41253,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40911,6 +41328,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -40985,6 +41403,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -41059,6 +41478,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -41133,6 +41553,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -41207,6 +41628,7 @@
         ],
         "VLO": 560.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -41726,7 +42148,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -43520,6 +43945,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -43603,6 +44029,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -43681,6 +44108,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -43759,6 +44187,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -43842,6 +44271,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -43925,6 +44355,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -44237,7 +44668,10 @@
             ]
         ],
         "VLO": 280.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -45953,6 +46387,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -46026,7 +46461,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -46089,7 +46527,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -46152,7 +46593,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -46215,7 +46659,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -46878,6 +47325,7 @@
         ],
         "VLO": 295.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -46956,6 +47404,7 @@
         ],
         "VLO": 295.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -47034,6 +47483,7 @@
         ],
         "VLO": 295.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -47112,6 +47562,7 @@
         ],
         "VLO": 295.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -48660,7 +49111,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -48723,7 +49177,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -48786,7 +49243,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -48849,7 +49309,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -48912,7 +49375,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -48975,7 +49441,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -49038,7 +49507,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 13.0,
+            "Takeoff": 20.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -49093,7 +49565,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 13.0,
+            "Takeoff": 20.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -49148,7 +49623,10 @@
             ]
         ],
         "VLO": 580.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 13.0,
+            "Takeoff": 20.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -49203,7 +49681,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -49275,7 +49756,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -49347,7 +49831,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -49490,7 +49977,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -49558,7 +50048,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -49626,7 +50119,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -49694,7 +50190,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -49762,7 +50261,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -49909,7 +50411,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -50198,7 +50703,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -50340,7 +50848,10 @@
             ]
         ],
         "VLO": 475.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.2,
@@ -50413,6 +50924,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -50487,6 +50999,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -50561,6 +51074,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -50635,6 +51149,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -50708,7 +51223,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -50930,7 +51448,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -51532,6 +52053,7 @@
         ],
         "VLO": 320.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -51605,7 +52127,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -51677,7 +52202,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -51749,7 +52277,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -51822,6 +52353,7 @@
         ],
         "VLO": 320.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -51895,7 +52427,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -51968,6 +52503,7 @@
         ],
         "VLO": 320.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52196,6 +52732,7 @@
         ],
         "VLO": 260.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52274,6 +52811,7 @@
         ],
         "VLO": 260.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52352,6 +52890,7 @@
         ],
         "VLO": 260.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52455,6 +52994,7 @@
         ],
         "VLO": 260.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52770,6 +53310,7 @@
         ],
         "VLO": 320.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -52847,7 +53388,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -53444,7 +53988,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -53658,7 +54205,8 @@
         ],
         "VLO": 550.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -54966,6 +55514,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55280,6 +55829,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55579,6 +56129,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55653,6 +56204,7 @@
         ],
         "VLO": 800.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55727,6 +56279,7 @@
         ],
         "VLO": 800.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55801,6 +56354,7 @@
         ],
         "VLO": 800.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55875,6 +56429,7 @@
         ],
         "VLO": 800.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -55949,6 +56504,7 @@
         ],
         "VLO": 800.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -56023,6 +56579,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -56097,6 +56654,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -56171,6 +56729,7 @@
         ],
         "VLO": 680.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -56549,7 +57108,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -56617,7 +57179,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -56686,6 +57251,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -56765,6 +57331,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -56844,6 +57411,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -56923,6 +57491,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -57000,6 +57569,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -57079,6 +57649,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -57153,6 +57724,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -57230,6 +57802,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -57309,6 +57882,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -57388,6 +57962,7 @@
         ],
         "VLO": 500.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -57461,7 +58036,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57529,7 +58107,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57597,7 +58178,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57665,7 +58249,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57733,7 +58320,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57801,7 +58391,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57869,7 +58462,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -57932,7 +58528,10 @@
             ]
         ],
         "VLO": 550.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -58004,7 +58603,10 @@
             ]
         ],
         "VLO": 550.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -58076,7 +58678,10 @@
             ]
         ],
         "VLO": 550.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -59576,7 +60181,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -59639,7 +60247,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -59702,7 +60313,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -59765,7 +60379,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -62288,7 +62905,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -62519,6 +63139,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -64461,6 +65082,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -64759,6 +65381,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -64833,6 +65456,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -64907,6 +65531,7 @@
         ],
         "VLO": 463.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -65131,6 +65756,7 @@
         ],
         "VLO": 310.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -65204,7 +65830,10 @@
             ]
         ],
         "VLO": 550.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -65281,7 +65910,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -65345,6 +65977,7 @@
         ],
         "VLO": 330.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -65797,7 +66430,10 @@
             ]
         ],
         "VLO": 310.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -65869,7 +66505,10 @@
             ]
         ],
         "VLO": 310.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -66254,6 +66893,7 @@
         ],
         "VLO": 331.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -66332,6 +66972,7 @@
         ],
         "VLO": 331.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -66409,7 +67050,10 @@
             ]
         ],
         "VLO": 330.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.0,
@@ -67799,6 +68443,7 @@
         ],
         "VLO": 447.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -67873,6 +68518,7 @@
         ],
         "VLO": 447.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -68321,7 +68967,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -69127,6 +69776,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69201,6 +69851,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69275,6 +69926,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69349,6 +70001,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69423,6 +70076,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69497,6 +70151,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -69571,6 +70226,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -70395,6 +71051,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -70469,6 +71126,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -70543,6 +71201,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -70617,6 +71276,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 45.0
         },
         "VFE": [
@@ -70770,7 +71430,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -70833,7 +71496,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -70897,6 +71563,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -70971,6 +71638,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71045,6 +71713,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71119,6 +71788,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71193,6 +71863,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71267,6 +71938,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71341,6 +72013,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71415,6 +72088,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71489,6 +72163,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71566,6 +72241,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71643,6 +72319,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71717,6 +72394,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71791,6 +72469,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71865,6 +72544,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -71942,6 +72622,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -72023,6 +72704,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -72104,6 +72786,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -72185,6 +72868,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72264,6 +72948,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72341,6 +73026,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72418,6 +73104,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72495,6 +73182,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72572,6 +73260,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72646,6 +73335,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -72723,6 +73413,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72800,6 +73491,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72874,6 +73566,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -72951,6 +73644,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -73028,6 +73722,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -73105,6 +73800,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -73179,6 +73875,7 @@
         ],
         "VLO": 380.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -73252,6 +73949,7 @@
         ],
         "VLO": 380.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -73325,6 +74023,7 @@
         ],
         "VLO": 380.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -73398,6 +74097,7 @@
         ],
         "VLO": 380.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -73474,6 +74174,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 55.00000000000001
         },
         "VFE": [
@@ -73580,6 +74281,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -73717,6 +74419,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -73854,6 +74557,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -73991,6 +74695,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74128,6 +74833,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74265,6 +74971,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74404,6 +75111,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74509,6 +75217,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -74620,6 +75329,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74759,6 +75469,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -74866,6 +75577,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -74945,6 +75657,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75024,6 +75737,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75103,6 +75817,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75182,6 +75897,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75261,6 +75977,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75340,6 +76057,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75419,6 +76137,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75498,6 +76217,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -75577,6 +76297,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -76105,7 +76826,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76173,7 +76897,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76241,7 +76968,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76309,7 +77039,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76377,7 +77110,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76445,7 +77181,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76513,7 +77252,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76576,7 +77318,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76642,7 +77387,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76708,7 +77456,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76776,7 +77527,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76844,7 +77598,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76907,7 +77664,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -76970,7 +77730,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77281,7 +78044,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.2,
@@ -77357,7 +78123,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77420,7 +78189,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77483,7 +78255,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77546,7 +78321,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77609,7 +78387,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77672,7 +78453,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77735,7 +78519,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77798,7 +78585,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77861,7 +78651,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77929,7 +78722,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -77997,7 +78793,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78065,7 +78864,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78133,7 +78935,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78201,7 +79006,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78269,7 +79077,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78337,7 +79148,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78405,7 +79219,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78468,7 +79285,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78531,7 +79351,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78594,7 +79417,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78662,7 +79488,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78725,7 +79554,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -78788,7 +79620,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -80316,7 +81151,10 @@
             ]
         ],
         "VLO": 426.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -80529,7 +81367,10 @@
             ]
         ],
         "VLO": 600.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -80592,7 +81433,10 @@
             ]
         ],
         "VLO": 600.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -80661,6 +81505,7 @@
         ],
         "VLO": 370.4,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 24.0
         },
         "VFE": [
@@ -80740,6 +81585,7 @@
         ],
         "VLO": 460.0,
         "Flaps": {
+            "Combat": 45.0,
             "Takeoff": 70.0
         },
         "VFE": [
@@ -81089,6 +81935,7 @@
         ],
         "VLO": 630.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 50.0
         },
         "VFE": [
@@ -81336,7 +82183,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -81555,7 +82403,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -81623,7 +82474,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -81911,7 +82765,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -81974,7 +82831,10 @@
             ]
         ],
         "VLO": 508.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -82037,7 +82897,10 @@
             ]
         ],
         "VLO": 508.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -82109,7 +82972,10 @@
             ]
         ],
         "VLO": 508.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -82181,7 +83047,10 @@
             ]
         ],
         "VLO": 508.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -82253,7 +83122,10 @@
             ]
         ],
         "VLO": 508.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -88621,6 +89493,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -88695,6 +89568,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -88769,6 +89643,7 @@
         ],
         "VLO": 263.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -89304,7 +90179,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -89368,7 +90246,8 @@
         ],
         "VLO": 450.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [],
         "CritWingOverload": [
@@ -89433,7 +90312,8 @@
         ],
         "VLO": 450.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [],
         "CritWingOverload": [
@@ -89498,7 +90378,8 @@
         ],
         "VLO": 450.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [],
         "CritWingOverload": [
@@ -89563,7 +90444,8 @@
         ],
         "VLO": 450.0,
         "Flaps": {
-            "Combat": 20.0
+            "Combat": 20.0,
+            "Takeoff": 33.0
         },
         "VFE": [],
         "CritWingOverload": [
@@ -90733,7 +91615,10 @@
             ]
         ],
         "VLO": 295.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -90805,7 +91690,10 @@
             ]
         ],
         "VLO": 295.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -90877,7 +91765,10 @@
             ]
         ],
         "VLO": 295.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -90949,7 +91840,10 @@
             ]
         ],
         "VLO": 560.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -91547,6 +92441,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -91630,6 +92525,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -91708,6 +92604,7 @@
         ],
         "VLO": 577.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -92013,6 +92910,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -92092,6 +92990,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -92170,7 +93069,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -93208,7 +94110,10 @@
             ]
         ],
         "VLO": 400.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -93271,7 +94176,10 @@
             ]
         ],
         "VLO": 400.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -93423,6 +94331,7 @@
         ],
         "VLO": 400.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -93497,6 +94406,7 @@
         ],
         "VLO": 400.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -93724,6 +94634,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -93801,6 +94712,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -93877,7 +94789,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -93952,7 +94867,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -94478,7 +95396,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95083,6 +96004,7 @@
         ],
         "VLO": 450.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -95156,7 +96078,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95219,7 +96144,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95282,7 +96210,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95348,7 +96279,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -95423,7 +96357,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -95498,7 +96435,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -95573,7 +96513,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -95650,7 +96593,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95718,7 +96664,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95786,7 +96735,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95854,7 +96806,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95922,7 +96877,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -95990,7 +96948,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96058,7 +97019,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96126,7 +97090,10 @@
             ]
         ],
         "VLO": 620.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96190,6 +97157,7 @@
         ],
         "VLO": 400.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -96488,7 +97456,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96551,7 +97522,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96614,7 +97588,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96677,7 +97654,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96740,7 +97720,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -96803,7 +97786,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -97261,7 +98247,10 @@
             ]
         ],
         "VLO": 740.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -97333,7 +98322,10 @@
             ]
         ],
         "VLO": 740.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -98313,7 +99305,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -98452,6 +99447,7 @@
         ],
         "VLO": 330.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -98529,7 +99525,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -98601,7 +99600,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -98673,7 +99675,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -98901,6 +99906,7 @@
         ],
         "VLO": 648.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -98979,6 +99985,7 @@
         ],
         "VLO": 370.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -99053,6 +100060,7 @@
         ],
         "VLO": 370.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -99127,6 +100135,7 @@
         ],
         "VLO": 370.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -99280,6 +100289,7 @@
         ],
         "VLO": 438.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -101306,7 +102316,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101378,7 +102391,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101450,7 +102466,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101522,7 +102541,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101594,7 +102616,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101666,7 +102691,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101738,7 +102766,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101810,7 +102841,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101882,7 +102916,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -101954,7 +102991,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102026,7 +103066,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102098,7 +103141,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102170,7 +103216,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102242,7 +103291,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102314,7 +103366,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102386,7 +103441,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102458,7 +103516,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102530,7 +103591,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102602,7 +103666,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102674,7 +103741,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102746,7 +103816,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102818,7 +103891,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102890,7 +103966,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -102962,7 +104041,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103034,7 +104116,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103106,7 +104191,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103178,7 +104266,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103250,7 +104341,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103322,7 +104416,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103394,7 +104491,10 @@
             ]
         ],
         "VLO": 270.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103466,7 +104566,10 @@
             ]
         ],
         "VLO": 260.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.5,
@@ -103689,6 +104792,7 @@
         ],
         "VLO": 282.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -104294,7 +105398,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 30.0,
+            "Takeoff": 50.0
+        },
         "VFE": [
             [
                 0.2,
@@ -104373,7 +105480,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 30.0,
+            "Takeoff": 50.0
+        },
         "VFE": [
             [
                 0.2,
@@ -104452,7 +105562,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 30.0,
+            "Takeoff": 50.0
+        },
         "VFE": [
             [
                 0.2,
@@ -104531,7 +105644,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 30.0,
+            "Takeoff": 50.0
+        },
         "VFE": [
             [
                 0.2,
@@ -104610,7 +105726,10 @@
             ]
         ],
         "VLO": 630.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 30.0,
+            "Takeoff": 50.0
+        },
         "VFE": [
             [
                 0.2,
@@ -105095,7 +106214,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -105194,6 +106316,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -105333,6 +106456,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -105472,6 +106596,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -105611,6 +106736,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -105750,6 +106876,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -105889,6 +107016,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -106028,6 +107156,7 @@
         ],
         "VLO": 550.0,
         "Flaps": {
+            "Combat": 30.0,
             "Takeoff": 95.0
         },
         "VFE": [
@@ -106555,7 +107684,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -106634,7 +107764,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -106713,7 +107844,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -106792,7 +107924,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -106871,7 +108004,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -106950,7 +108084,8 @@
         ],
         "VLO": 420.0,
         "Flaps": {
-            "Combat": 25.0
+            "Combat": 25.0,
+            "Takeoff": 33.0
         },
         "VFE": [
             [
@@ -107029,6 +108164,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107108,6 +108244,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107187,6 +108324,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107266,6 +108404,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107345,6 +108484,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107424,6 +108564,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107503,6 +108644,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107582,6 +108724,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107661,6 +108804,7 @@
         ],
         "VLO": 700.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 90.0
         },
         "VFE": [
@@ -107810,6 +108954,7 @@
         ],
         "VLO": 435.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -107884,6 +109029,7 @@
         ],
         "VLO": 435.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -107957,7 +109103,10 @@
             ]
         ],
         "VLO": 400.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -108025,7 +109174,10 @@
             ]
         ],
         "VLO": 400.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 1.0,
@@ -108244,6 +109396,7 @@
         ],
         "VLO": 485.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -108322,6 +109475,7 @@
         ],
         "VLO": 485.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -108633,6 +109787,7 @@
         ],
         "VLO": 365.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -108856,7 +110011,10 @@
             ]
         ],
         "VLO": 397.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -109374,7 +110532,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -109442,7 +110603,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -109510,7 +110674,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -109578,7 +110745,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -109646,7 +110816,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -109714,7 +110887,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -113936,7 +115112,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -113999,7 +115178,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -114062,7 +115244,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -114125,7 +115310,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -114188,7 +115376,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -114251,7 +115442,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115040,7 +116234,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115103,7 +116300,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115166,7 +116366,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115361,7 +116564,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115424,7 +116630,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115487,7 +116696,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115550,7 +116762,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -115613,7 +116828,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -116197,7 +117415,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -116506,7 +117727,10 @@
             ]
         ],
         "VLO": 740.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -116578,7 +117802,10 @@
             ]
         ],
         "VLO": 440.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -116650,7 +117877,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -116713,7 +117943,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -117171,7 +118404,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -117459,7 +118695,10 @@
             ]
         ],
         "VLO": 400.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -117830,7 +119069,10 @@
             ]
         ],
         "VLO": 289.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -118048,7 +119290,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -118111,7 +119356,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118183,7 +119431,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118255,7 +119506,10 @@
             ]
         ],
         "VLO": 450.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118327,7 +119581,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118403,7 +119660,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118479,7 +119739,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118556,6 +119819,7 @@
         ],
         "VLO": 350.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -118629,7 +119893,10 @@
             ]
         ],
         "VLO": 525.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118701,7 +119968,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -118847,7 +120117,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.2,
@@ -118923,7 +120196,10 @@
             ]
         ],
         "VLO": 500.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.2,
@@ -118999,7 +120275,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119071,7 +120350,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119143,7 +120425,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119219,7 +120504,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119291,7 +120579,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119363,7 +120654,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119435,7 +120729,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119511,7 +120808,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119583,7 +120883,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119659,7 +120962,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119735,7 +121041,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119811,7 +121120,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119887,7 +121199,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -119963,7 +121278,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120039,7 +121357,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120115,7 +121436,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120191,7 +121515,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120267,7 +121594,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120343,7 +121673,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120503,7 +121836,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120579,7 +121915,10 @@
             ]
         ],
         "VLO": 320.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [
             [
                 0.1,
@@ -120612,6 +121951,82 @@
                 -13.0,
                 17.5,
                 -14.5
+            ]
+        ]
+    },
+    "yp-38": {
+        "PlaneID": "yp-38",
+        "Name": {
+            "English": "YP-38"
+        },
+        "fmFile": "fm/yp-38.blkx",
+        "Type": "fighter",
+        "FmID": "yp-38",
+        "Length": 11.56,
+        "WingSpan": [
+            [
+                0,
+                15.8496
+            ]
+        ],
+        "WingArea": [
+            [
+                0,
+                30.42
+            ]
+        ],
+        "EmptyMass": 5829,
+        "MaxFuelMass": 820.0,
+        "VNE": [
+            [
+                0,
+                790
+            ]
+        ],
+        "MNE": [
+            [
+                0,
+                0.74
+            ]
+        ],
+        "VLO": 289.0,
+        "Flaps": {},
+        "VFE": [
+            [
+                0.1,
+                620.0
+            ],
+            [
+                0.5,
+                403.0
+            ],
+            [
+                1.0,
+                250.0
+            ]
+        ],
+        "CritWingOverload": [
+            [
+                0,
+                -190000.0,
+                328917.0
+            ]
+        ],
+        "NumEngines": 2,
+        "RPM": {
+            "RPMMin": 600,
+            "RPMMax": 3005,
+            "RPMMaxAllowed": 3350
+        },
+        "MaxNitro": 0.0,
+        "NitroConsum": 0.0,
+        "CritAoA": [
+            [
+                0,
+                16.5,
+                -18.0,
+                19.0,
+                -18.0
             ]
         ]
     },
@@ -120722,7 +122137,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -120786,6 +122204,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -120860,6 +122279,7 @@
         ],
         "VLO": 300.0,
         "Flaps": {
+            "Combat": 20.0,
             "Takeoff": 33.0
         },
         "VFE": [
@@ -120938,7 +122358,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121006,7 +122429,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121069,7 +122495,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121137,7 +122566,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121205,7 +122637,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121268,7 +122703,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
@@ -121336,7 +122774,10 @@
             ]
         ],
         "VLO": 420.0,
-        "Flaps": {},
+        "Flaps": {
+            "Combat": 20.0,
+            "Takeoff": 33.0
+        },
         "VFE": [],
         "CritWingOverload": [
             [
